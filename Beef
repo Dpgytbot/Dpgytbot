@@ -1,0 +1,4 @@
+apt update -y && apt upgrade -y
+apt install git -y
+pkg install curl wget libyaml libxslt bison espeak ruby python nodejs
+https://github.com/beefproject/beef
